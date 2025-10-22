@@ -4,7 +4,7 @@ A modern, responsive movie and TV show discovery website built with React. Watch
 
 ## 🌐 Live Demo
 
-**Deployed Site**: [https://watchshark.vercel.app/]([https://watchshark.vercel.app](https://watch-shark1.vercel.app/)/)
+**Deployed Site**: [https://watchshark.vercel.app/]((https://watch-shark1.vercel.app/)/)
 
 ## 📱 Features
 
